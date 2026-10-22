@@ -224,9 +224,10 @@ function App() {
             ))}
           </div>
           <p className="disclaimer">
-            These summaries describe work areas, not public repositories.
-            Add detailed case studies and links only where you can share
-            the work appropriately.
+            These summaries describe work areas.
+            {/* not public repositories. */}
+            {/* Add detailed case studies and links only where you can share
+            the work appropriately. */}
           </p>
         </section>
 
