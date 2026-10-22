@@ -10,7 +10,7 @@ const projects = [
     title: 'FinTech Backend Services',
     description:
       'Go-based REST APIs supporting transactional, rewards, brands and wealth-building workflows.',
-    stack: ['Go', 'PostgreSQL', 'AWS', 'Redis', 'Docker', 'REST APIs'],
+    stack: ['Go', 'PostgreSQL', 'AWS', 'Redis', 'Docker'],
   },
   {
     number: '02',
